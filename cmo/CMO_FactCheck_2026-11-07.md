@@ -9,10 +9,10 @@ Nhãn: ĐÃ XÁC MINH (nguồn chính thức/gốc) · THỨ CẤP (nguồn lạ
 | Bài | Khẳng định | Kết quả | Nguồn (tra 07/11/2026) |
 |---|---|---|---|
 | 9, 10 | NN/g chia giọng điệu thành 4 trục: nghiêm túc–hài hước, trang trọng–thân mật, tôn trọng–phá cách (irreverent), điềm tĩnh–nhiệt huyết | ĐÃ XÁC MINH | nngroup.com/articles/tone-of-voice-dimensions/ |
-| 2 | Hướng dẫn của Anthropic nhấn mạnh nói rõ ràng, đưa ví dụ, giao vai trò | ĐÃ XÁC MINH qua kết quả tìm kiếm trang docs.claude.com / platform.claude.com (chưa mở trực tiếp trang) | docs.claude.com/en/docs/build-with-claude/prompt-engineering/multishot-prompting và trang Prompting best practices |
-| 2 | Hướng dẫn của Anthropic nhấn mạnh cho đủ bối cảnh | THỨ CẤP (bản sao tài liệu) | kuware.com bản sao claude-prompting-best-practices |
+| 2 | Hướng dẫn của Anthropic nhấn mạnh nói rõ ràng, đưa ví dụ, giao vai trò | ĐÃ XÁC MINH, đã mở bản gốc (cập nhật 07/11/2026 22:30): trang nói Claude đáp ứng tốt hướng dẫn rõ ràng, đặt vai trò giúp định hướng, ví dụ giúp ổn định kết quả | platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices |
+| 2 | Hướng dẫn của Anthropic nhấn mạnh cho đủ bối cảnh | ĐÃ XÁC MINH, đã mở bản gốc: trang nói giải thích lý do/bối cảnh của chỉ dẫn giúp Claude nhắm đúng đích; có "phép thử đồng nghiệp" (đưa prompt cho người ít bối cảnh, họ thấy rối thì Claude cũng dễ rối) | platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices |
 | 2 | ChatGPT cũng áp dụng được (rõ ràng, vai trò, ví dụ) | THỨ CẤP (tóm tắt hướng dẫn OpenAI) | marketingaiinstitute.com, briansolis.com |
-| 10, 2 | Anthropic khuyên khoảng 3–5 ví dụ đa dạng | ĐÃ XÁC MINH qua kết quả tìm kiếm trang docs | docs.claude.com multishot-prompting |
+| 10, 2 | Anthropic khuyên khoảng 3–5 ví dụ đa dạng | ĐÃ XÁC MINH, đã mở bản gốc: trang khuyến nghị 3–5 ví dụ, nên liên quan và đa dạng | platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices |
 | 3 | CTR = click ÷ hiển thị; CVR = chuyển đổi ÷ click; CPA = chi phí ÷ chuyển đổi | ĐÃ XÁC MINH (nhiều nguồn khớp) | brandwatch.com/social-media-glossary/click-through-rate/; kpu.pressbooks.pub/introdigitalmarketing/chapter/paid-search-metrics/ |
 | 3 | CTR cao, CVR thấp thường nên xem trang đích | THỨ CẤP, bài đã viết ở dạng "có thể", ghi rõ giả định | contentsquare.com, reacheffect.com |
 | 5 | AIDA = Attention, Interest, Desire, Action; PAS = Problem, Agitate, Solution | ĐÃ XÁC MINH (nguồn thứ cấp ngành) | mailchimp.com/resources/copwriting-formulas; smartblogger.com/copywriting-formulas |
@@ -39,6 +39,6 @@ Khung 5 thành phần prompt (bài 2), 3 lớp thương hiệu (bài 4), 4 bư�
 
 ## 4. Chưa xác minh / giữ lại
 - Bài 14 (mentoring 1:1): mô tả dịch vụ cần chủ page xác nhận, mức Vàng, chưa đăng. cmo_verified = false.
-- Bản gốc trang OpenAI prompt guide và một số tài liệu Anthropic chưa mở trực tiếp (công cụ mở trang không được cấp quyền trong phiên này). Các mục THỨ CẤP ở bảng 1 nên mở bản gốc khi có thể.
+- Trang Anthropic đã mở được bản gốc (22:30 ngày 07/11/2026). Còn lại: bản gốc OpenAI prompt guide chưa mở; mục "AI có thể bịa số liệu/nguồn" (bài 13) và "ChatGPT cũng áp dụng được" (bài 2) vẫn THỨ CẤP.
 - Quy định riêng ngành đào tạo (quảng cáo, cam kết kết quả): chưa tra.
 - "Chính xác 100%" không thể cam kết tuyệt đối. Quy trình bảo đảm: mỗi khẳng định kiểm chứng được đều có nguồn và ngày; khẳng định không kiểm chứng được thì bị sửa nhẹ, ghi giả định, hoặc loại bỏ.
