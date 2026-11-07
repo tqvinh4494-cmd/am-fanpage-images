@@ -11,7 +11,7 @@ Nhãn: ĐÃ XÁC MINH (nguồn chính thức/gốc) · THỨ CẤP (nguồn lạ
 | 9, 10 | NN/g chia giọng điệu thành 4 trục: nghiêm túc–hài hước, trang trọng–thân mật, tôn trọng–phá cách (irreverent), điềm tĩnh–nhiệt huyết | ĐÃ XÁC MINH | nngroup.com/articles/tone-of-voice-dimensions/ |
 | 2 | Hướng dẫn của Anthropic nhấn mạnh nói rõ ràng, đưa ví dụ, giao vai trò | ĐÃ XÁC MINH, đã mở bản gốc (cập nhật 07/11/2026 22:30): trang nói Claude đáp ứng tốt hướng dẫn rõ ràng, đặt vai trò giúp định hướng, ví dụ giúp ổn định kết quả | platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices |
 | 2 | Hướng dẫn của Anthropic nhấn mạnh cho đủ bối cảnh | ĐÃ XÁC MINH, đã mở bản gốc: trang nói giải thích lý do/bối cảnh của chỉ dẫn giúp Claude nhắm đúng đích; có "phép thử đồng nghiệp" (đưa prompt cho người ít bối cảnh, họ thấy rối thì Claude cũng dễ rối) | platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices |
-| 2 | ChatGPT cũng áp dụng được (rõ ràng, vai trò, ví dụ) | THỨ CẤP (tóm tắt hướng dẫn OpenAI) | marketingaiinstitute.com, briansolis.com |
+| 2 | ChatGPT cũng áp dụng được (rõ ràng, vai trò, ví dụ) | ĐÃ XÁC MINH, đã mở bản gốc OpenAI (22:40): hướng dẫn rõ ràng và cụ thể, đặt vai trò qua developer message, ví dụ few-shot đa dạng | developers.openai.com/api/docs/guides/prompt-engineering |
 | 10, 2 | Anthropic khuyên khoảng 3–5 ví dụ đa dạng | ĐÃ XÁC MINH, đã mở bản gốc: trang khuyến nghị 3–5 ví dụ, nên liên quan và đa dạng | platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices |
 | 3 | CTR = click ÷ hiển thị; CVR = chuyển đổi ÷ click; CPA = chi phí ÷ chuyển đổi | ĐÃ XÁC MINH (nhiều nguồn khớp) | brandwatch.com/social-media-glossary/click-through-rate/; kpu.pressbooks.pub/introdigitalmarketing/chapter/paid-search-metrics/ |
 | 3 | CTR cao, CVR thấp thường nên xem trang đích | THỨ CẤP, bài đã viết ở dạng "có thể", ghi rõ giả định | contentsquare.com, reacheffect.com |
@@ -19,7 +19,7 @@ Nhãn: ĐÃ XÁC MINH (nguồn chính thức/gốc) · THỨ CẤP (nguồn lạ
 | 5 | BAB = Before, After, Bridge | ĐÃ XÁC MINH (nguồn thứ cấp ngành) | mailchimp.com/resources/copwriting-formulas |
 | 11 | Trụ cột nội dung thường 3–5 | ĐÃ XÁC MINH là thông lệ phổ biến, không phải quy tắc cố định | relevantaudience.com/content-marketing/what-is-a-content-pillar/; later.com/blog/content-pillars-social-strategy/ |
 | 12 | A/B test: giả thuyết rõ, đổi một yếu tố, chọn trước chỉ số, tính cỡ mẫu và thời gian trước, không dừng sớm | ĐÃ XÁC MINH là thực hành phổ biến. Có ý kiến trái chiều về "một biến" khi nhiều lưu lượng (atticusli.com), bài đã ghi "theo các hướng dẫn thực hành phổ biến" | posthog.com/docs/experiments/best-practices; mida.so/blog/avoid-common-mistakes-in-ab-testing |
-| 13 | AI có thể bịa số liệu, nguồn nghe rất hợp lý | THỨ CẤP (tóm tắt hướng dẫn OpenAI nêu mô hình có thể bịa câu trả lời, nhất là trích dẫn, URL) | briansolis.com tóm tắt OpenAI guide |
+| 13 | AI có thể bịa số liệu, nguồn nghe rất hợp lý | ĐÃ XÁC MINH bằng tài liệu gốc OpenAI (22:40): bài nghiên cứu của OpenAI nói mô hình có thể đưa ra phát biểu hợp lý nhưng sai; system card o1 nêu trường hợp bịa tài liệu tham khảo khi không kiểm chứng được | cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf; openai.com/index/openai-o1-system-card/ |
 
 ## 2. Lỗi phát hiện và đã sửa (chữ trước, hình sau)
 
@@ -39,6 +39,6 @@ Khung 5 thành phần prompt (bài 2), 3 lớp thương hiệu (bài 4), 4 bư�
 
 ## 4. Chưa xác minh / giữ lại
 - Bài 14 (mentoring 1:1): mô tả dịch vụ cần chủ page xác nhận, mức Vàng, chưa đăng. cmo_verified = false.
-- Trang Anthropic đã mở được bản gốc (22:30 ngày 07/11/2026). Còn lại: bản gốc OpenAI prompt guide chưa mở; mục "AI có thể bịa số liệu/nguồn" (bài 13) và "ChatGPT cũng áp dụng được" (bài 2) vẫn THỨ CẤP.
+- Trang Anthropic đã mở được bản gốc (22:30 ngày 07/11/2026). Tài liệu gốc OpenAI cũng đã mở (22:40): hai mục OpenAI ở bài 2 và bài 13 đã nâng lên ĐÃ XÁC MINH.
 - Quy định riêng ngành đào tạo (quảng cáo, cam kết kết quả): chưa tra.
 - "Chính xác 100%" không thể cam kết tuyệt đối. Quy trình bảo đảm: mỗi khẳng định kiểm chứng được đều có nguồn và ngày; khẳng định không kiểm chứng được thì bị sửa nhẹ, ghi giả định, hoặc loại bỏ.
