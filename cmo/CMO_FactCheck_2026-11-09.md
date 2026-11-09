@@ -86,3 +86,15 @@ Cách làm: 4 lượt tra nguồn song song (WebSearch, WebFetch) cho 24 câu tr
 ## Lưu ý
 - Nhiều câu trích dẫn mới chỉ có nguồn thứ cấp vì công cụ không mở được sách gốc hoặc bài báo gốc; caption đã ghi "theo trích dẫn", "lược dịch", "giai thoại" hoặc "được cho là" tương ứng. Nếu bạn muốn chỉ giữ câu có nguồn gốc, các câu đạt mức này là Conan Doyle (EP.07), Stanford 2005 (EP.10 và EP.20), Porter (EP.18, bản sao bài gốc).
 - Những chỗ cần bạn xem lại nếu muốn chính xác hơn nữa: EP.13 (BusinessWeek), EP.14 (Bezos), EP.16 (Ogilvy giai thoại).
+
+---
+
+## Bản 3 (09/11/2026): viết lại văn phong, giữ nguyên dữ kiện
+
+Phạm vi thay đổi: 20 caption EP.01–EP.20 được viết lại theo hướng phân tích (câu hỏi dẫn dắt, lập luận theo từng ý, kết luận), đa dạng mô hình viết: PAS (EP.01, 06, 12), AIDA (EP.04, 11, 17), BAB (EP.03, 10, 20), Feel–Felt–Found (EP.13), SCQA (EP.14), Sai lầm – Sự thật (EP.05, 16), phân tích theo tình huống hoặc giai đoạn (EP.02, 07, 08, 09, 15, 18, 19).
+
+Trích dẫn: bỏ nhãn "lược dịch" và các ghi chú nguồn trong ngoặc cho các câu đã có nguồn; câu gốc tiếng Anh giữ nguyên trong ngoặc kép, phần chuyển ngữ diễn đạt tự nhiên. Không thêm khẳng định mới so với bản 2. Các câu chưa có gốc rõ ràng vẫn ghi mềm trong caption: EP.08 (câu "In God we trust", không gán Deming, bản sớm nhất tìm được là lời điều trần năm 1978), EP.14 (Bezos, "người ta kể", dẫn qua sách của Rossman), EP.16 (Ogilvy, "được cho là", dẫn qua Ogilvy on Advertising), EP.11 (câu cái khoan "thường gắn với McGivena, Levitt phổ biến").
+
+Chỉnh nhỏ: EP.19 ghi "chưa đầy ba tháng sau ngày ra mắt" (iPhone ra mắt 29/06/2007, thư 05/09/2007) thay cho cách nói mơ hồ. Đã rà không còn từ cấm (nhất so sánh, hàng đầu, cam kết, 100%, tuyệt vời).
+
+Kết quả: cmo_verified = true cho bài 15–34; mức Xanh; số từ 439–537 (trong khung 150–650).
