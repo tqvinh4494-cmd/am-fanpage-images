@@ -41,15 +41,15 @@ Theo mình, câu trả lời là: làm được, nhưng phải đổi cách nh�
   
 Sáng thứ Hai, 8h30, sếp đưa yêu cầu: chiến dịch phải lan truyền mạnh, sang trọng, trẻ trung, thu về thật nhiều khách để lại thông tin, lại tăng độ nhận biết thương hiệu. À, ngân sách thì “cũng thấp thôi nhé”, và tuần sau có kế hoạch nha! Mentor Cute chỉ đáp “Dạ…” rồi mở sổ ghi việc gấp. 😵  
   
-1. Vấn đề: đây mới là danh sách ước mơ, chưa phải brief.  
+1) Vấn đề: đây mới là danh sách ước mơ, chưa phải brief.  
   
 Mỗi mong muốn kéo về một hướng, trong khi tiền và thời gian chỉ có một. Sang trọng thì khó “đại trà”, lan truyền mạnh thì khó giữ vẻ cao cấp, ngân sách thấp thì khó vừa phủ rộng vừa chạm sâu.  
   
-2. Hệ quả: càng chăm chỉ càng dễ đi lệch.  
+2) Hệ quả: càng chăm chỉ càng dễ đi lệch.  
   
 Cố làm vừa lòng tất cả, bạn sẽ có một bản đề xuất ôm đồm, không điểm nào thật sự nổi bật. Đến lúc báo cáo, sếp hỏi “sao chưa viral?” cũng không có gì để trả lời.  
   
-3. Cách gỡ: dùng 24 giờ đầu để “dọn” brief.  
+3) Cách gỡ: dùng 24 giờ đầu để “dọn” brief.  
   
 Chọn một mục tiêu chính. Hỏi thẳng sếp: “Nếu chỉ được chọn một, anh muốn nhiều người biết đến hay nhiều người để lại thông tin?”. Phần còn lại là mục tiêu phụ.  
 Đổi chữ mơ hồ thành con số. “Nhiều lead” là bao nhiêu người, “ngân sách thấp” là bao nhiêu tiền, “tuần sau” là ngày nào.  
@@ -86,20 +86,20 @@ Theo mình, đừng chọn vội. Câu hỏi nên đến trước tất cả là
   
 Cả nhóm hào hứng lắm: “Làm TikTok đi anh, trend này đang hot nè!”, “Booking KOL (người có sức ảnh hưởng) đi, giờ vẫn hiệu quả mà!”, “Hay làm minigame, dễ viral lắm!”. Mentor Cute giơ tay: “Khoan!”  
   
-1. Chọn kênh khi chưa hiểu khách giống như chọn quà cho người mình chưa từng gặp.  
+1) Chọn kênh khi chưa hiểu khách giống như chọn quà cho người mình chưa từng gặp.  
   
 Có thể trúng, nhưng phần lớn là may rủi, mà may rủi thì rất tốn tiền. Một chiêu thức đang hot chưa chắc hợp với nhóm khách của bạn.  
   
-2. Hiểu khách không cần nghiên cứu cao siêu, chỉ cần trả lời đủ 5 câu.  
+2) Hiểu khách không cần nghiên cứu cao siêu, chỉ cần trả lời đủ 5 câu.  
   
-(Đây là khung mình hay dùng, theo kinh nghiệm của page, không phải quy chuẩn bắt buộc.)  
+(Đây là khung mình hay dùng, theo kinh nghiệm của Anh Mentor, không phải quy chuẩn bắt buộc.)  
 Who: họ là ai, bao nhiêu tuổi, làm nghề gì, sống ở đâu?  
 Need: họ đang muốn đạt điều gì?  
 Pain: điều gì đang làm họ vướng, khó chịu?  
 Behavior: mỗi ngày họ làm gì, tìm thông tin ở đâu, tin ai?  
 Insight: điều họ nghĩ mà ít khi nói ra. Ví dụ giả định: “Tôi muốn bán được hàng, nhưng sợ đăng nhiều bị cho là phiền.”  
   
-3. Lấy câu trả lời bằng cách ít tốn kém: nghe khách thật.  
+3) Lấy câu trả lời bằng cách ít tốn kém: nghe khách thật.  
   
 Nhắn hỏi 5 khách cũ, đọc lại bình luận và tin nhắn, xem khách hay hỏi gì. Chỉ vài cuộc trò chuyện là bạn đã bớt đoán đi rất nhiều. Sau đó mới chọn kênh: khách của bạn có mặt ở đâu thì mình đến đó.  
   
@@ -133,15 +133,15 @@ Sau (After): mỗi bài đăng đều có lý do tồn tại. Nhìn vào lịch,
   
 Cầu nối (Bridge): đảo thứ tự câu hỏi. Số bài là câu hỏi ở cuối, không phải ở đầu.  
   
-Mentor Cute cười và vẽ lên bảng một đường đi gồm 7 bước (quy trình mình hay dùng, theo kinh nghiệm của page):  
+Mentor Cute cười và vẽ lên bảng một đường đi gồm 7 bước (quy trình mình hay dùng, theo kinh nghiệm của Anh Mentor):  
   
-1. Mục tiêu kinh doanh: viết bằng một câu. Ví dụ giả định: “tăng số khách nhắn tin hỏi mua”.  
-2. Khách hàng: nhóm nào, đang gặp vấn đề gì.  
-3. Thông điệp chính: một điều duy nhất khách cần nhớ.  
-4. Trụ cột nội dung: vài nhóm chủ đề lớn bám sát mục tiêu và khách hàng, như kiến thức, câu chuyện, bằng chứng.  
-5. Góc triển khai: mỗi trụ cột có thể kể nhiều kiểu, như mẹo, so sánh, trước và sau.  
-6. Dạng nội dung: bài chữ, hình, video ngắn hay infographic (hình tóm tắt thông tin).  
-7. Kênh đăng: nơi khách của bạn thật sự có mặt.  
+1) Mục tiêu kinh doanh: viết bằng một câu. Ví dụ giả định: “tăng số khách nhắn tin hỏi mua”.  
+2) Khách hàng: nhóm nào, đang gặp vấn đề gì.  
+3) Thông điệp chính: một điều duy nhất khách cần nhớ.  
+4) Trụ cột nội dung: vài nhóm chủ đề lớn bám sát mục tiêu và khách hàng, như kiến thức, câu chuyện, bằng chứng.  
+5) Góc triển khai: mỗi trụ cột có thể kể nhiều kiểu, như mẹo, so sánh, trước và sau.  
+6) Dạng nội dung: bài chữ, hình, video ngắn hay infographic (hình tóm tắt thông tin).  
+7) Kênh đăng: nơi khách của bạn thật sự có mặt.  
   
 Chỉ sau bước 7 mới đến chuyện bao nhiêu bài, đăng lúc nào, ai làm. Rồi thử, đo, chỉnh.  
   
@@ -179,12 +179,12 @@ Bài ít người xem là chuyện rất bình thường. Điều đáng tiếc 
   
 Mong muốn: một cách kiểm tra bài từ ngoài vào trong, không cần đoán.  
   
-1. Câu mở đầu. Người đang lướt qua có hiểu “bài này dành cho mình, mình được gì” trong vài dòng đầu không? Thử viết 3 câu mở đầu khác nhau cho cùng một bài.  
-2. Thông điệp. Bài đang nói điều khách quan tâm hay điều mình muốn nói?  
-3. Hình thức. Chữ, hình hay video có hợp nơi đăng và thói quen xem của khách?  
-4. Giờ đăng. Xem lúc nào khách của bạn thường online, rồi thử đổi giờ ở vài bài. Mỗi lần chỉ đổi một thứ để biết thứ nào có tác dụng.  
-5. Phân phối. Nhờ đồng nghiệp, khách quen, nhóm phù hợp xem và trao đổi trong những giờ đầu, đừng chỉ đăng rồi ngồi chờ.  
-6. Điểm khác biệt. Bài này có điều gì người khác chưa nói, hoặc nói theo cách rất riêng của bạn không?  
+1) Câu mở đầu. Người đang lướt qua có hiểu “bài này dành cho mình, mình được gì” trong vài dòng đầu không? Thử viết 3 câu mở đầu khác nhau cho cùng một bài.  
+2) Thông điệp. Bài đang nói điều khách quan tâm hay điều mình muốn nói?  
+3) Hình thức. Chữ, hình hay video có hợp nơi đăng và thói quen xem của khách?  
+4) Giờ đăng. Xem lúc nào khách của bạn thường online, rồi thử đổi giờ ở vài bài. Mỗi lần chỉ đổi một thứ để biết thứ nào có tác dụng.  
+5) Phân phối. Nhờ đồng nghiệp, khách quen, nhóm phù hợp xem và trao đổi trong những giờ đầu, đừng chỉ đăng rồi ngồi chờ.  
+6) Điểm khác biệt. Bài này có điều gì người khác chưa nói, hoặc nói theo cách rất riêng của bạn không?  
   
 David Ogilvy, một trong những cây đại thụ của ngành quảng cáo, từng nói trong cuốn Confessions of an Advertising Man rằng trung bình số người đọc tiêu đề nhiều gấp năm lần số người đọc phần thân, nên viết xong tiêu đề là bạn đã dùng hết tám phần mười số tiền của mình: “On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar.” Cho nên đừng tiếc công cho vài dòng đầu tiên.  
   
@@ -214,15 +214,15 @@ Theo mình, chưa chắc, và đây là lúc cần bình tĩnh.
   
 Mentor Cute mở bảng số liệu và suýt reo lên: lượt hiển thị tăng, lượt bấm tăng, tiền mỗi lượt bấm giảm, biểu đồ đi lên. “Ổn áp! Giờ chỉ cần đợi khách để lại thông tin thôi!” (Số liệu trong hình là số giả định, chỉ mang tính tham khảo, không phải của chiến dịch thật.)  
   
-1. Điều nhiều người tin: số đẹp là chiến dịch tốt.  
+1) Điều nhiều người tin: số đẹp là chiến dịch tốt.  
   
 Sự thật: các chỉ số bề mặt chỉ cho biết người ta có thấy và có bấm. Theo phần trợ giúp của Google Ads, CTR (tỉ lệ bấm) là số lượt bấm chia cho số lượt hiển thị; còn CPC (chi phí mỗi lượt bấm) trung bình là tổng tiền các lượt bấm chia cho tổng số lượt bấm. Hai con số này chưa nói gì về chuyện khách có để lại thông tin, nhắn tin hay mua hàng.  
   
-2. Điều nhiều người tin: cứ tối ưu cho chỉ số tăng thì kết quả sẽ tăng.  
+2) Điều nhiều người tin: cứ tối ưu cho chỉ số tăng thì kết quả sẽ tăng.  
   
 Sự thật: khi một chỉ số bị biến thành mục tiêu duy nhất, người ta sẽ tìm cách làm nó đẹp, kể cả bằng những cách chẳng giúp ích gì. Marilyn Strathern, nhà nhân học người Anh, từng diễn đạt lại một nhận xét nổi tiếng của kinh tế học: “When a measure becomes a target, it ceases to be a good measure.” Nói cho dễ nhớ, thước đo mà bị biến thành đích đến thì không còn đáng tin để đo nữa. Chạy theo lượt bấm, bạn sẽ có nhiều lượt bấm, nhưng chưa chắc có khách.  
   
-3. Cách làm đúng: nối số đẹp với kết quả thật.  
+3) Cách làm đúng: nối số đẹp với kết quả thật.  
   
 Chọn một kết quả cuối, ví dụ giả định là số người điền form, và đặt nó cạnh các chỉ số bề mặt.  
 Vẽ “đường đi” của khách: thấy quảng cáo, bấm, vào trang, điền form, để lại thông tin. Xem người rơi ở bước nào.  
@@ -263,13 +263,13 @@ Hệ quả: cứ thế bơm thêm tiền, bạn chỉ mua thêm những lượt 
   
 Giải pháp: đi ngược từ kết quả, kiểm tra từng điểm một.  
   
-1. Nhóm khách: người bấm có đúng người mình cần không, hay chỉ bấm cho vui?  
-2. Từ khóa: họ gõ gì để thấy quảng cáo? Từ quá rộng thường kéo cả những người chưa có nhu cầu.  
-3. Trang đích (trang khách vào sau khi bấm): có khớp với lời hứa trong quảng cáo không? Mở bằng điện thoại có nhanh và dễ đọc không?  
-4. Biểu mẫu: có quá nhiều ô phải điền không? Bấm gửi xong có thông báo thành công không?  
-5. Theo dõi đo lường: người điền form có thật sự được ghi nhận không? Tự điền thử một lần xem số có nhảy không.  
-6. Ưu đãi: khách được gì khi để lại thông tin? Lý do để điền đã đủ rõ chưa?  
-7. Nhắc lại khách: có nhắc lại cho người đã vào trang nhưng chưa điền không?  
+1) Nhóm khách: người bấm có đúng người mình cần không, hay chỉ bấm cho vui?  
+2) Từ khóa: họ gõ gì để thấy quảng cáo? Từ quá rộng thường kéo cả những người chưa có nhu cầu.  
+3) Trang đích (trang khách vào sau khi bấm): có khớp với lời hứa trong quảng cáo không? Mở bằng điện thoại có nhanh và dễ đọc không?  
+4) Biểu mẫu: có quá nhiều ô phải điền không? Bấm gửi xong có thông báo thành công không?  
+5) Theo dõi đo lường: người điền form có thật sự được ghi nhận không? Tự điền thử một lần xem số có nhảy không.  
+6) Ưu đãi: khách được gì khi để lại thông tin? Lý do để điền đã đủ rõ chưa?  
+7) Nhắc lại khách: có nhắc lại cho người đã vào trang nhưng chưa điền không?  
   
 Nguyên tắc: sửa từng điểm một và ghi lại, để biết điểm nào mới thật sự có tác dụng.  
   
@@ -301,18 +301,18 @@ Phần lớn chúng ta phản xạ rất nhanh: sửa quảng cáo ngay. Mentor 
   
 Trong truyện A Scandal in Bohemia của Arthur Conan Doyle, thám tử Sherlock Holmes nói một câu mà dân làm số liệu nào cũng nên dán lên bàn: “It is a capital mistake to theorise before one has data.” Suy đoán khi chưa có dữ kiện là sai lầm lớn. Ông còn nói thêm: người ta thường bẻ sự việc cho vừa với giả thuyết, thay vì chỉnh giả thuyết cho vừa với sự việc. Nghe giống hệt cảnh chúng ta tin chắc “do hình quảng cáo dở” rồi đi sửa hình.  
   
-1. Sửa nhiều thứ cùng lúc là cách rất nhanh để mất dấu nguyên nhân.  
+1) Sửa nhiều thứ cùng lúc là cách rất nhanh để mất dấu nguyên nhân.  
   
 Giống như uống cả đơn thuốc khi chưa biết mình bệnh gì: khỏi cũng không biết nhờ thuốc nào, nặng thêm cũng không biết vì thuốc nào.  
   
-2. Hãy “khám” phễu khách hàng theo 4 chặng.  
+2) Hãy “khám” phễu khách hàng theo 4 chặng.  
   
 Chặng quảng cáo (thấy rồi bấm): đúng nhóm khách chưa, thông điệp đủ hấp dẫn chưa? Nếu lượt bấm thấp so với lượt thấy, xem lại hình và câu chữ.  
 Chặng trang đích (bấm rồi vào trang): nhiều người bấm nhưng vào xong thoát ngay thường là trang chưa khớp với quảng cáo, hoặc tải quá chậm.  
 Chặng biểu mẫu (vào trang rồi điền form): form có quá nhiều ô không, điền có mượt không, có rào cản nào khiến khách bỏ ngang?  
 Chặng ghi nhận (điền form rồi thành khách để lại thông tin): việc theo dõi đo lường đã cài đúng chưa, thông tin có về hệ thống không, chất lượng khách ra sao?  
   
-3. Cách làm gọn: ghi số từng chặng ra giấy, tìm chặng tụt mạnh, chỉ sửa chặng đó, đo lại rồi mới sang chặng khác.  
+3) Cách làm gọn: ghi số từng chặng ra giấy, tìm chặng tụt mạnh, chỉ sửa chặng đó, đo lại rồi mới sang chặng khác.  
   
 Việc nên làm hôm nay: vẽ phễu 4 chặng cho chiến dịch của bạn và điền số vào từng chặng.  
   
@@ -342,11 +342,11 @@ Theo mình, chưa đủ. Sếp không cần nghe mình đang bận, sếp cần 
   
 Sếp nhìn màn hình, nhíu mày: “Số liệu đẹp không phải là mọi thứ. Lead đâu? Kết quả đâu? Khi nào có?”. Mentor Cute hít sâu và mở phễu số liệu ra. (Số liệu trong hình là số giả định, chỉ mang tính tham khảo.)  
   
-1. Đọc phễu trước khi trả lời.  
+1) Đọc phễu trước khi trả lời.  
   
 Phễu trong hình đi từ 512.640 lượt hiển thị, 8.320 lượt bấm, 8.120 lượt xem trang đích, 420 lượt gửi form, rồi khách để lại thông tin bằng 0. Có người gửi form mà không có khách nào được ghi nhận thì đây là lúc nghi ngờ việc theo dõi đo lường trước (đây là giả thuyết cần kiểm tra, chưa phải kết luận).  
   
-2. Trả lời sếp bằng bản kế hoạch 6 dòng.  
+2) Trả lời sếp bằng bản kế hoạch 6 dòng.  
   
 Kiểm tra theo dõi đo lường: các “thẻ” trên trang (như Google Tag Manager, công cụ quản lý thẻ của Google, hay GA4 để xem lượt truy cập) có kích hoạt khi khách bấm gửi form không.  
 Phân tích chất lượng lượt truy cập: khách đến từ đâu, ở lại bao lâu.  
@@ -355,7 +355,7 @@ Thử hai bản để so sánh (A/B test): mỗi lần đổi một thứ như t
 Thống nhất với các bên liên quan (nội dung, SEO, bán hàng) thế nào là một khách đạt yêu cầu.  
 Báo cáo kèm mốc thời gian: hôm nay kiểm gì, ngày mai có kết quả gì, đề xuất gì.  
   
-3. Vì sao cần kỷ luật số liệu như vậy?  
+3) Vì sao cần kỷ luật số liệu như vậy?  
   
 Có một câu hay được nhắc trong giới làm dữ liệu: “In God we trust, others must provide data.” Đại ý: với Chúa thì ta tin, còn lại ai nói gì cũng hãy mang số liệu ra. Câu này lâu nay hay được gán cho W. Edwards Deming, nhưng bản xuất hiện sớm nhất mà người ta tìm được là một lời điều trần trước Quốc hội Mỹ năm 1978, nên mình chỉ coi đây là một câu nói lưu truyền. Dù của ai, tinh thần thì rất đúng với cuộc họp lúc sếp hỏi “Lead đâu?”.  
   
@@ -389,11 +389,11 @@ Theo mình, câu trả lời là vế sau. Nhưng điều quan trọng là mình
   
 Mentor Cute thốt lên: “À… thì ra Marketing không chỉ là chạy quảng cáo, làm nội dung để có số liệu đẹp. Quan trọng là phải tạo ra giá trị thật cho doanh nghiệp!”  
   
-1. KPI (chỉ tiêu đo kết quả) rất cần, nhưng chỉ là phương tiện.  
+1) KPI (chỉ tiêu đo kết quả) rất cần, nhưng chỉ là phương tiện.  
   
 Lượt xem, lượt bấm, lượt tương tác giúp mình biết mình đang đi thế nào. Còn đích đến là doanh thu, lợi nhuận, khách quay lại. Khi quên điều này, cả đội dễ bận rộn giỏi mà chẳng ai trả lời được “làm để làm gì”.  
   
-2. Cách nối chỉ tiêu với mục tiêu: đi từ phải sang trái.  
+2) Cách nối chỉ tiêu với mục tiêu: đi từ phải sang trái.  
   
 Mentor vẽ lên bảng một chuỗi: Mục tiêu kinh doanh, Khách hàng, Chiến lược, Nội dung, Kênh, Chuyển đổi (khách làm điều mình mong), Doanh thu và tăng trưởng.  
 Bắt đầu từ mục tiêu của doanh nghiệp. Ví dụ giả định: tăng số đơn của một dòng sản phẩm.  
@@ -401,7 +401,7 @@ Hỏi: muốn thêm đơn thì khách phải làm gì? Nhắn tin, đặt hàng 
 Từ hành động đó chọn chỉ tiêu theo dõi, rồi mới đến nội dung và kênh.  
 Đặt chỉ tiêu bề mặt như lượt xem, tương tác ở vai phụ: để chẩn đoán, không phải để tự khen.  
   
-3. Năm câu tự hỏi trước mỗi chiến dịch.  
+3) Năm câu tự hỏi trước mỗi chiến dịch.  
   
 Chiến dịch này phục vụ mục tiêu nào? Nó giải quyết vấn đề gì cho khách? Chỉ tiêu nào quan trọng với mục tiêu này? Đo bằng cách nào? Nếu không đạt, mình làm gì tiếp theo?  
   
@@ -477,11 +477,11 @@ Mong muốn: có một cách hỏi lại vừa lịch sự vừa gọn, để s�
   
 Mẹo là đừng hỏi “ý anh là gì ạ?”, hãy đưa ra một câu hỏi kèm lựa chọn cho từng chỗ mơ hồ:  
   
-1. “Lan truyền mạnh”: đo bằng gì, lượt chia sẻ, lượt xem hay lượt nhắn tin? Con số nào thì anh thấy là được?  
-2. “Ngân sách tạm ổn”: anh cho em một khoảng, từ đâu đến đâu, được không ạ?  
-3. “Giới trẻ nhưng hợp khách hiện tại”: nếu hai nhóm khác nhau thì mình ưu tiên nhóm nào làm chính?  
-4. “Vừa nhận biết, vừa ra khách”: mục tiêu nào trước, mục tiêu nào phụ?  
-5. “Tuần sau chạy”: ngày giờ cụ thể là khi nào, ai duyệt, duyệt tối đa mấy vòng?  
+1) “Lan truyền mạnh”: đo bằng gì, lượt chia sẻ, lượt xem hay lượt nhắn tin? Con số nào thì anh thấy là được?  
+2) “Ngân sách tạm ổn”: anh cho em một khoảng, từ đâu đến đâu, được không ạ?  
+3) “Giới trẻ nhưng hợp khách hiện tại”: nếu hai nhóm khác nhau thì mình ưu tiên nhóm nào làm chính?  
+4) “Vừa nhận biết, vừa ra khách”: mục tiêu nào trước, mục tiêu nào phụ?  
+5) “Tuần sau chạy”: ngày giờ cụ thể là khi nào, ai duyệt, duyệt tối đa mấy vòng?  
   
 Rồi gửi lại sếp bản tóm tắt 5 dòng gồm mục tiêu chính, nhóm khách, ngân sách, chỉ tiêu, ngày chạy. Sếp chỉ cần trả lời “đúng” hoặc sửa một chỗ.  
   
@@ -519,11 +519,11 @@ Hệ quả: mỗi vòng sửa tốn thêm thời gian, đội mất động lự
   
 Giải pháp: chốt tiêu chí trước, giới hạn vòng sửa.  
   
-1. Trước khi thiết kế, viết ra 3 tiêu chí để duyệt rồi nhờ sếp đồng ý. Ví dụ giả định: đúng thông điệp chính, đọc rõ trên điện thoại, đúng màu thương hiệu.  
-2. Khi nhận góp ý, hỏi lại nhẹ nhàng: “Góp ý này giúp mình đạt tiêu chí nào ạ?”. Góp ý nào không thuộc tiêu chí nào thì ghi vào mục “để lần sau”.  
-3. Gom góp ý vào một chỗ và trả lời một lần, đừng sửa theo từng tin nhắn lẻ.  
-4. Thống nhất số vòng sửa. Ví dụ giả định: tối đa hai vòng, sau đó chỉ sửa lỗi, không đổi hướng.  
-5. Gửi 2 đến 3 phương án có lý do rõ ràng, thay vì mười bản gần giống nhau.  
+1) Trước khi thiết kế, viết ra 3 tiêu chí để duyệt rồi nhờ sếp đồng ý. Ví dụ giả định: đúng thông điệp chính, đọc rõ trên điện thoại, đúng màu thương hiệu.  
+2) Khi nhận góp ý, hỏi lại nhẹ nhàng: “Góp ý này giúp mình đạt tiêu chí nào ạ?”. Góp ý nào không thuộc tiêu chí nào thì ghi vào mục “để lần sau”.  
+3) Gom góp ý vào một chỗ và trả lời một lần, đừng sửa theo từng tin nhắn lẻ.  
+4) Thống nhất số vòng sửa. Ví dụ giả định: tối đa hai vòng, sau đó chỉ sửa lỗi, không đổi hướng.  
+5) Gửi 2 đến 3 phương án có lý do rõ ràng, thay vì mười bản gần giống nhau.  
   
 Danh sách kiểm tra trước khi gửi: đúng thông điệp, đúng tông màu, đúng font, đủ phiên bản, đã tối ưu hình ảnh, lời kêu gọi hành động (CTA) đã rõ, đã xuất file đúng kích thước.  
   
@@ -560,12 +560,12 @@ Từng cảm thấy (Felt): rất nhiều người làm nghề này từng thấ
 Tìm ra (Found): người góp ý thường nói được điều họ không thích trước khi biết điều họ muốn. Nếu mình chỉ đáp lại từng câu, mình sẽ đi vòng quanh cùng họ. Cần đổi vai: từ người sửa theo thành người cùng tìm hướng.  
   
 Cách làm, “kế hoạch lần 9” của Mentor:  
-1. Làm rõ mục tiêu: bản này dùng để làm gì, ai xem, xem ở đâu?  
-2. Xin ví dụ thay vì tính từ. “Anh thích mẫu nào đã thấy rồi ạ?” giúp hiểu nhanh hơn nhiều so với “sang hơn”, “trẻ hơn”.  
-3. Tóm tắt toàn bộ góp ý 8 lần thành 3 đến 4 ý chính, rồi hỏi sếp xác nhận.  
-4. Đề xuất 2 đến 3 phương án thật sự khác nhau, mỗi phương án có một dòng lý do vì sao hợp mục tiêu.  
-5. Tách chuyện “bản thiết kế” khỏi chuyện “bản thân mình”. Góp ý là về sản phẩm, không phải đánh giá con người bạn.  
-6. Ghi lại những gì đã chốt để không phải bàn lại từ đầu.  
+1) Làm rõ mục tiêu: bản này dùng để làm gì, ai xem, xem ở đâu?  
+2) Xin ví dụ thay vì tính từ. “Anh thích mẫu nào đã thấy rồi ạ?” giúp hiểu nhanh hơn nhiều so với “sang hơn”, “trẻ hơn”.  
+3) Tóm tắt toàn bộ góp ý 8 lần thành 3 đến 4 ý chính, rồi hỏi sếp xác nhận.  
+4) Đề xuất 2 đến 3 phương án thật sự khác nhau, mỗi phương án có một dòng lý do vì sao hợp mục tiêu.  
+5) Tách chuyện “bản thiết kế” khỏi chuyện “bản thân mình”. Góp ý là về sản phẩm, không phải đánh giá con người bạn.  
+6) Ghi lại những gì đã chốt để không phải bàn lại từ đầu.  
   
 Về chuyện vì sao đưa phương án lại nhanh hơn hỏi, Steve Jobs từng chia sẻ với tạp chí BusinessWeek năm 1998: “It’s really hard to design products by focus groups. A lot of times, people don’t know what they want until you show it to them.” Nghĩa là nhiều khi người ta chỉ biết mình muốn gì khi nhìn thấy nó trước mắt. Cho nên thay vì hỏi “anh muốn gì”, hãy đặt vài lựa chọn lên bàn rồi nhìn phản ứng.  
   
@@ -599,13 +599,13 @@ Câu hỏi: vậy nên bắt đầu từ đâu?
   
 Trả lời: tối ưu theo thứ tự, mỗi lần một thứ.  
   
-1. Chốt mục tiêu chiến dịch và chỉ tiêu chính. Ví dụ giả định: chi phí mỗi khách đạt mức mong muốn.  
-2. Đi dọc phễu: so từng chặng, tìm chặng tụt mạnh.  
-3. So với mức tham chiếu của ngành hoặc, tốt hơn, của chính các chiến dịch cũ của bạn. Mốc của chính mình thường đáng tin hơn con số chung chung.  
-4. Kiểm tra nhóm khách và vị trí hiển thị quảng cáo: có đang tới đúng người không?  
-5. Rà hình, câu chữ quảng cáo và trang đích: thông điệp có khớp nhau từ đầu đến cuối không?  
-6. Thử hai bản (A/B test) với một thay đổi mỗi lần và ghi lại kết quả.  
-7. Đề xuất hướng cụ thể: làm gì, đo gì, khi nào xem lại.  
+1) Chốt mục tiêu chiến dịch và chỉ tiêu chính. Ví dụ giả định: chi phí mỗi khách đạt mức mong muốn.  
+2) Đi dọc phễu: so từng chặng, tìm chặng tụt mạnh.  
+3) So với mức tham chiếu của ngành hoặc, tốt hơn, của chính các chiến dịch cũ của bạn. Mốc của chính mình thường đáng tin hơn con số chung chung.  
+4) Kiểm tra nhóm khách và vị trí hiển thị quảng cáo: có đang tới đúng người không?  
+5) Rà hình, câu chữ quảng cáo và trang đích: thông điệp có khớp nhau từ đầu đến cuối không?  
+6) Thử hai bản (A/B test) với một thay đổi mỗi lần và ghi lại kết quả.  
+7) Đề xuất hướng cụ thể: làm gì, đo gì, khi nào xem lại.  
   
 Về chuyện thử nghiệm, người ta kể rằng Jeff Bezos từng nói: “If you double the number of experiments you do per year you’re going to double your inventiveness.” Nhân đôi số thử nghiệm mỗi năm thì khả năng sáng tạo cũng nhân đôi theo. (Câu này được trích lại trong sách The Amazon Way on IoT của John Rossman, mình chưa tìm được hoàn cảnh gốc nên chỉ chia sẻ như một lời kể.) Điều đáng giữ lại là thử nhiều thì được, miễn mỗi lần chỉ đổi một thứ và ghi lại.  
   
@@ -637,15 +637,15 @@ Theo mình, cả hai đều không phải là câu trả lời hay. Điều bạ
   
 Bản yêu cầu mới “phiên bản 5.0” hiện lên bảng: ý tưởng trẻ trung bắt xu hướng, thông điệp ngắn dễ nhớ, hình ảnh hiện đại, 2 đến 3 gương mặt có sức ảnh hưởng, video ngắn 3 phiên bản (15, 30 và 45 giây), triển khai Facebook, TikTok, Zalo, YouTube Shorts, thêm minigame và báo chí. Mentor Cute chỉ biết ôm đầu. 😰  
   
-1. Nếu cố làm hết, làm gì cũng dở. Nếu từ chối hết, mất lòng và có thể mất cả niềm tin.  
+1) Nếu cố làm hết, làm gì cũng dở. Nếu từ chối hết, mất lòng và có thể mất cả niềm tin.  
   
 Con đường giữa là phân loại: việc nào là cốt lõi, việc nào làm thêm nếu kịp.  
   
-2. Hít thở, họp nhanh 10 phút, rồi hỏi sếp đúng một câu.  
+2) Hít thở, họp nhanh 10 phút, rồi hỏi sếp đúng một câu.  
   
 “Trong bản mới, mục tiêu cốt lõi không đổi là gì ạ? Phần nào bắt buộc, phần nào nếu kịp?” Câu hỏi này giúp sếp tự nhìn lại, và thường thì danh sách “bắt buộc” ngắn hơn nhiều so với lúc nhắn.  
   
-3. Sắp việc theo thứ tự rồi báo rủi ro.  
+3) Sắp việc theo thứ tự rồi báo rủi ro.  
   
 Thông điệp chính và ý tưởng làm trước, rồi đến hình ảnh, cuối cùng mới là phần phụ như minigame.  
 Nói rõ việc gì làm được trong đêm nay, việc gì cần thêm thời gian, và đề xuất chia giai đoạn. Ví dụ giả định: chạy một kênh trước, thêm kênh sau.  
@@ -680,15 +680,15 @@ Theo mình, chưa. Giao việc chỉ là bắt đầu, còn phần phối hợp 
   
 Bạn agency hào hứng: “Ý tưởng này sẽ viral lắm anh ạ! Trendy, sáng tạo, đúng insight, bùng nổ luôn!”. Bạn còn lại cười tươi: “Anh yên tâm, bên em lo hết sản xuất, KOL, kênh truyền thông, tiến độ. Anh chỉ cần duyệt là chạy thôi!”. Mentor Cute nghe rất hay, nhưng trong đầu vẫn lởn vởn: tiến độ, ngân sách, nhân lực có khả thi không ta? Trên bàn còn mấy tờ ghi chú: Feedback lần 3, Đổi ý tưởng?, Thêm KOL nữa?, Rút ngân sách?! 😅  
   
-1. Điều dễ tin: lời hứa “sẽ viral” là chắc chắn.  
+1) Điều dễ tin: lời hứa “sẽ viral” là chắc chắn.  
   
 Sự thật: không ai bảo đảm trước được một nội dung sẽ lan truyền. Một đối tác tốt nói về cách làm, mốc thời gian và cách đo, không hứa kết quả chắc chắn.  
   
-2. Điều dễ tin: mỗi bên hiểu “xong” giống nhau.  
+2) Điều dễ tin: mỗi bên hiểu “xong” giống nhau.  
   
 Sự thật: bên đặt hàng hiểu “xong” là đạt mục tiêu, agency hiểu “xong” có thể là giao đủ sản phẩm. Khác định nghĩa thì sinh tranh cãi, và rủi ro thường rơi về bên đặt hàng.  
   
-3. Cách làm: 6 thỏa thuận nên có trước khi bắt đầu.  
+3) Cách làm: 6 thỏa thuận nên có trước khi bắt đầu.  
   
 Brief và phạm vi: ghi rõ việc nào thuộc agency, việc nào thuộc mình.  
 Mục tiêu và cách đo: thống nhất chỉ tiêu trước khi chạy, không đợi chạy xong mới bàn.  
@@ -763,11 +763,11 @@ Theo mình, câu trả lời không nằm ở việc làm nhanh hơn, mà ở vi
   
 “Làm nội dung nhé!” “Làm báo cáo gấp!” “Chạy quảng cáo ngay nha!” “Sửa thiết kế xíu!” Bốn giọng nói vang lên cùng lúc, Mentor Cute ngồi giữa chồng hồ sơ dán nhãn Nội dung, Quảng cáo, Thiết kế, Báo cáo, Họp, Chỉnh sửa, và tờ lịch ghi “DEADLINE ???”. 😵 (“1001 việc” chỉ là cách nói vui, nhưng cảm giác thì ai làm marketing cũng quen.)  
   
-1. Khi cái gì cũng gấp, ta dễ làm theo tiếng ai to hơn.  
+1) Khi cái gì cũng gấp, ta dễ làm theo tiếng ai to hơn.  
   
 Cuối ngày bạn mệt rã rời, còn việc quan trọng thì vẫn nằm đó chưa xong.  
   
-2. Quy trình 5 bước để bớt rối (kinh nghiệm cá nhân, bạn chọn cái hợp với mình).  
+2) Quy trình 5 bước để bớt rối (kinh nghiệm của Anh Mentor, bạn chọn cái hợp với mình).  
   
 Gom: ghi mọi yêu cầu vào một chỗ duy nhất, không nhớ trong đầu. Ghi rõ ai nhờ, nhờ gì, khi nào cần.  
 Hỏi hạn chót thật: “gấp” là trước giờ nào hôm nay? Nhiều khi “gấp” chỉ là cảm giác của người nhờ.  
@@ -775,7 +775,7 @@ Chia hai trục quan trọng và khẩn cấp: việc vừa quan trọng vừa k
 Nói rõ khi quá tải: đưa danh sách cho sếp và hỏi “việc nào em làm trước ạ?”. Chọn thứ tự là việc của cả hai bên.  
 Giữ một khoảng không bị làm phiền (ví dụ giả định: một đến hai tiếng mỗi sáng) cho việc quan trọng.  
   
-3. Dám nói “để sau” cũng là một kỹ năng chuyên môn.  
+3) Dám nói “để sau” cũng là một kỹ năng chuyên môn.  
   
 Michael Porter, giáo sư Harvard, trong bài “What Is Strategy?” năm 1996 viết rằng cốt lõi của chiến lược là chọn điều không làm: “The essence of strategy is choosing what not to do.” Với dân marketing đang ngập việc, nói “để sau” hay “không” với những việc không phục vụ mục tiêu chính là một quyết định chiến lược, không phải sự lười biếng.  
   
@@ -805,17 +805,17 @@ Theo mình, cả ba đều dễ làm tình hình tệ hơn, vì khách sẽ th�
   
 Một ngày nọ: “Dịch vụ tệ quá!”, “Thất vọng…”, “Không quay lại nữa!”. Biểu đồ đi xuống (số liệu trong hình là số giả định, chỉ mang tính tham khảo). Cả đội nhìn nhau, còn Mentor Cute đổ mồ hôi nhưng vẫn nhắc mình: bình tĩnh xử lý.  
   
-Vậy nên làm gì? Mình chia theo từng giai đoạn để dễ áp dụng. (Đây là kinh nghiệm cá nhân, không phải quy chuẩn bắt buộc.)  
+Vậy nên làm gì? Mình chia theo từng giai đoạn để dễ áp dụng. (Đây là kinh nghiệm của Anh Mentor, không phải quy chuẩn bắt buộc.)  
   
-1. Giai đoạn đầu, trong vài giờ đầu: theo dõi và phản hồi.  
+1) Giai đoạn đầu, trong vài giờ đầu: theo dõi và phản hồi.  
   
 Gom các bình luận và tin nhắn vào một chỗ. Xem chuyện gì đang xảy ra, ai bị ảnh hưởng, mức độ lan rộng. Trả lời sớm, ngắn gọn, tôn trọng, ghi nhận cảm xúc của khách và tránh đổ lỗi.  
   
-2. Giai đoạn giữa, khi đã nắm tình hình: giải thích và xử lý.  
+2) Giai đoạn giữa, khi đã nắm tình hình: giải thích và xử lý.  
   
 Nói điều mình đã biết, điều đang kiểm tra và khi nào sẽ cập nhật tiếp. Không đoán, không hứa điều chưa chắc. Sau đó làm bằng hành động thật như sửa lỗi, đền bù hợp lý, liên hệ riêng với khách bị ảnh hưởng. Nếu liên quan đến pháp lý hoặc an toàn của khách, hãy trao đổi thêm với bộ phận hoặc chuyên gia phụ trách trước khi đăng lời giải thích.  
   
-3. Giai đoạn sau, khi mọi thứ lắng xuống: báo cáo và rút kinh nghiệm.  
+3) Giai đoạn sau, khi mọi thứ lắng xuống: báo cáo và rút kinh nghiệm.  
   
 Ghi lại chuyện đã xảy ra, cách xử lý, và điều cần đổi để lần sau không lặp lại. Soạn trước một bản kế hoạch, ghi rõ ai làm gì và ai được phép trả lời, để lần sau không phải lo trong hoảng loạn.  
   
@@ -848,11 +848,11 @@ Trước (Before): ở tập đầu, Mentor Cute cầm một brief đòi tất c
 Sau (After): vẫn là Mentor Cute của ngày đầu, nhưng biết hỏi trước khi làm, nhìn số theo từng chặng, và coi mỗi lần vấp là một lần hiểu thêm.  
   
 Cầu nối (Bridge): 5 điều Mentor giữ lại để áp dụng.  
-1. Hỏi trước khi làm: brief mơ hồ thì làm rõ mục tiêu, nhóm khách, ngân sách, chỉ tiêu.  
-2. Hiểu khách hàng trước khi chọn kênh hay chiêu thức.  
-3. Đo theo kết quả cuối, không chỉ theo chỉ số bề mặt; gặp vấn đề thì tìm đúng chặng đang tụt.  
-4. Phối hợp rõ ràng với sếp, đồng nghiệp, agency: tiêu chí duyệt, số vòng sửa, tiến độ.  
-5. Sau mỗi lần làm, ngồi lại rút kinh nghiệm để lần sau tốt hơn.  
+1) Hỏi trước khi làm: brief mơ hồ thì làm rõ mục tiêu, nhóm khách, ngân sách, chỉ tiêu.  
+2) Hiểu khách hàng trước khi chọn kênh hay chiêu thức.  
+3) Đo theo kết quả cuối, không chỉ theo chỉ số bề mặt; gặp vấn đề thì tìm đúng chặng đang tụt.  
+4) Phối hợp rõ ràng với sếp, đồng nghiệp, agency: tiêu chí duyệt, số vòng sửa, tiến độ.  
+5) Sau mỗi lần làm, ngồi lại rút kinh nghiệm để lần sau tốt hơn.  
   
 Đó cũng là tinh thần Applied Marketing: hiểu đúng, làm đúng, kết quả thật.  
   
