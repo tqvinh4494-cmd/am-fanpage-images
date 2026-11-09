@@ -21,7 +21,7 @@ Cách làm: chữ viết trước, sau đó đối chiếu từng dòng chữ tr
 
 | Hình | Sai lệch | Xử lý trong caption |
 |---|---|---|
-| EP.05 | CTR ghi 3,9% nhưng 8.320 click ÷ 512.640 hiển thị = 1,62% | Caption không dùng con số CTR này, chỉ nêu công thức; ghi rõ "số liệu trong hình chỉ để minh họa". Đề nghị chủ page cân nhắc vẽ lại hình để tránh người đọc tính lại và thắc mắc |
+| EP.05 | CTR ghi 3,9% nhưng 8.320 click ÷ 512.640 hiển thị = 1,62% | Caption không dùng con số CTR này, chỉ nêu công thức; ghi rõ "số liệu giả định, chỉ mang tính tham khảo". Đề nghị chủ page cân nhắc vẽ lại hình để tránh người đọc tính lại và thắc mắc |
 | EP.08 | Phễu có 420 lượt gửi form nhưng Lead = 0; số click (8.320) khác EP.06 (1.245) | Caption nêu là số minh họa và đặt việc nghi ngờ tracking là giả thuyết cần kiểm tra |
 | EP.05, 06 | Khoảng ngày trên dashboard ghi 2024, EP.14 ghi 2026 | Caption không nhắc năm |
 | EP.12–13–16 | EP.12 nói version 10, EP.13 nói lần 8, EP.16 ghi "Feedback lần 3" | Caption không dùng con số này làm mốc xuyên suốt |
@@ -35,7 +35,7 @@ Khung 5 câu hỏi Who/Need/Pain/Behavior/Insight (EP.02), quy trình 7 bước 
 - Bỏ các từ cấm: "nhất" (so sánh hơn), "tuyệt vời", "cam kết", "100%", "hàng đầu".
 - Lời hứa "viral" của agency ở EP.16 được kèm lưu ý "không ai bảo đảm trước được kết quả".
 - EP.19 (khủng hoảng) kèm lưu ý trao đổi thêm với chuyên gia khi liên quan pháp lý hoặc an toàn của khách; không đưa ra quy trình như chuẩn bắt buộc.
-- Mọi số liệu trong hình dùng làm ví dụ được ghi "minh họa".
+- Theo chỉ đạo của chủ page (09/11/2026): số liệu chỉ để tham khảo. Mọi caption có nhắc số trong hình (EP.04, 05, 06, 08, 14, 19) đều ghi rõ "số giả định, chỉ mang tính tham khảo".
 
 ## 5. Chưa xác minh / lưu ý
 - GA4: chưa mở trang gốc, nhãn THỨ CẤP; mức độ ảnh hưởng thấp vì chỉ nhắc tên.
