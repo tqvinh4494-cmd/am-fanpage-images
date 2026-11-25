@@ -8,3 +8,6 @@ Tất cả 8 ảnh đã mở xem. Canva vẽ thanh hashtag sai dấu ("Marketing
 
 ## Kết quả
 8/8 bài (id 35–42, 26/11–03/12 lúc 20:00): XANH, vào lịch trên main.
+
+## Bổ sung: EP.29–30 (soạn 25/11/2026)
+Chữ: XANH (quan điểm/khung làm việc của tác giả; không trích dẫn, không số liệu thật, ví dụ ghi "giả định"; không khẳng định về tính năng AI hay nền tảng). Hình: Canva 1080x1080, đã mở xem; EP.29 tạo lại 1 lần vì khẩu hiệu khó đọc; thanh hashtag vẽ lại đúng chính tả. Kết quả: 2/2 bài XANH, vào lịch (id 43–44, 04–05/12 lúc 20:00).
