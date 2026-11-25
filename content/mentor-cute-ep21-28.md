@@ -14,13 +14,13 @@ Chuyện của Mentor Cute · EP.21
 
 Mentor Cute gõ một câu lệnh, chưa đầy một phút đã có năm caption. Nhìn kỹ thì cả năm bài đều mở bằng cùng một cấu trúc, cùng một lời hứa chung chung. Nhanh thật, nhưng bài nào cũng giống bài nào.
 
-Bối cảnh (Situation): nhiều đội marketing đang dùng AI để viết nháp cho kịp lịch đăng. Tốc độ tăng, áp lực giảm.
+Bối cảnh: nhiều đội marketing đang dùng AI để viết nháp cho kịp lịch đăng. Tốc độ tăng, áp lực giảm.
 
-Phức tạp (Complication): khi chỉ đưa cho AI một yêu cầu ngắn, kết quả thường là những câu an toàn, ai viết cũng được. Khách đọc vài bài liền nhau sẽ thấy thương hiệu không có giọng riêng.
+Phức tạp: khi chỉ đưa cho AI một yêu cầu ngắn, kết quả thường là những câu an toàn, ai viết cũng được. Khách đọc vài bài liền nhau sẽ thấy thương hiệu không có giọng riêng.
 
-Câu hỏi (Question): làm sao tận dụng tốc độ của AI mà vẫn giữ hồn của thương hiệu?
+Câu hỏi: làm sao tận dụng tốc độ của AI mà vẫn giữ hồn của thương hiệu?
 
-Trả lời (Answer): coi AI là người viết nháp, còn con người là người giữ hồn thương hiệu. Mentor thường chia việc thế này:
+Trả lời: coi AI là người viết nháp, còn con người là người giữ hồn thương hiệu. Mentor thường chia việc thế này:
 1) Đưa cho AI đủ bối cảnh: khách hàng là ai, họ đang vướng gì, giọng văn mong muốn, những cách nói nên tránh. Đầu vào càng cụ thể thì đầu ra càng bớt chung chung.
 2) Đưa ví dụ thật về cách thương hiệu vẫn nói chuyện với khách, để AI bám theo giọng đó thay vì tự đoán.
 3) Với những bài mô tả sản phẩm hay con số, kiểm tra lại sự thật trước khi đăng, vì bản nháp của AI có thể sai chi tiết.
@@ -52,11 +52,11 @@ Chuyện của Mentor Cute · EP.22
 
 Fanpage đăng đều mỗi ngày, lịch kín cả tháng, vậy mà số bình luận và chia sẻ vẫn thưa thớt. Mentor Cute nhìn bảng lịch đầy ắp và tự hỏi: mình đang thiếu bài, hay thiếu lý do để người xem dừng lại?
 
-Vấn đề (Problem): nhiều đội lên lịch theo ngày trống, không theo mục tiêu. Hôm nay đăng khuyến mãi, mai đăng mẹo, kia đăng tin nội bộ. Bài nào cũng có mặt, nhưng không bài nào dẫn khách đi đến đâu.
+Vấn đề: nhiều đội lên lịch theo ngày trống, không theo mục tiêu. Hôm nay đăng khuyến mãi, mai đăng mẹo, kia đăng tin nội bộ. Bài nào cũng có mặt, nhưng không bài nào dẫn khách đi đến đâu.
 
-Khuấy động (Agitate): khi đăng chỉ để cho đủ số bài, đội dễ rơi vào vòng lặp: bài ít tương tác, sếp hỏi lý do, đội đăng thêm cho kịp, và bài càng nhiều thì càng khó nhớ mình muốn nói gì. Người xem lướt qua mà không nhớ trang này giúp gì cho họ.
+Khuấy động: khi đăng chỉ để cho đủ số bài, đội dễ rơi vào vòng lặp: bài ít tương tác, sếp hỏi lý do, đội đăng thêm cho kịp, và bài càng nhiều thì càng khó nhớ mình muốn nói gì. Người xem lướt qua mà không nhớ trang này giúp gì cho họ.
 
-Giải pháp (Solution): lập lịch content theo mục tiêu. Mentor hay làm theo 4 bước:
+Giải pháp: lập lịch content theo mục tiêu. Mentor hay làm theo 4 bước:
 1) Chọn một mục tiêu cho giai đoạn: làm quen, hiểu vấn đề, cân nhắc hay quyết định. Mỗi mục tiêu cần một kiểu bài khác nhau.
 2) Chia bài theo vai trò: bài kéo người mới đến, bài giúp họ hiểu, bài tạo niềm tin, bài mời họ hành động.
 3) Gắn mỗi bài với một hành động mong muốn nhỏ và rõ: để lại bình luận, lưu bài, nhắn tin hỏi thêm.
@@ -125,13 +125,13 @@ Chuyện của Mentor Cute · EP.24
 
 Mentor Cute đứng giữa dãy kệ siêu thị, nhìn sản phẩm của nhà mình nằm đó ngay ngắn mà giỏ hàng của khách cứ đi lướt qua. Hàng đã lên kệ, vậy chuyện gì khiến khách không với tay lấy?
 
-Chú ý (Attention): trên một dãy kệ, khách chỉ dành vài giây để lướt qua. Sản phẩm nằm sai tầm mắt, bị che khuất hoặc lẫn giữa nhiều bao bì tương tự thì khó được nhìn thấy, dù chất lượng tốt.
+Chú ý: trên một dãy kệ, khách chỉ dành vài giây để lướt qua. Sản phẩm nằm sai tầm mắt, bị che khuất hoặc lẫn giữa nhiều bao bì tương tự thì khó được nhìn thấy, dù chất lượng tốt.
 
-Quan tâm (Interest): trade marketing là phần việc làm cho sản phẩm dễ được nhìn thấy và dễ được chọn ngay tại điểm bán. Hai nhóm việc chính là trưng bày và khuyến mãi.
+Quan tâm: trade marketing là phần việc làm cho sản phẩm dễ được nhìn thấy và dễ được chọn ngay tại điểm bán. Hai nhóm việc chính là trưng bày và khuyến mãi.
 
-Mong muốn (Desire): khi khách thấy sản phẩm rõ ràng, hiểu nhanh sản phẩm dành cho ai, và có thêm một lý do nhỏ để thử, khả năng họ bỏ vào giỏ sẽ cao hơn.
+Mong muốn: khi khách thấy sản phẩm rõ ràng, hiểu nhanh sản phẩm dành cho ai, và có thêm một lý do nhỏ để thử, khả năng họ bỏ vào giỏ sẽ cao hơn.
 
-Hành động (Action): Mentor thường kiểm tra điểm bán theo 4 câu hỏi:
+Hành động: Mentor thường kiểm tra điểm bán theo 4 câu hỏi:
 1) Khách có nhìn thấy sản phẩm trong vài giây đầu không? Xem vị trí, tầm mắt, mặt bao bì hướng ra ngoài.
 2) Thông điệp tại kệ có rõ không? Một dòng nói được sản phẩm giải quyết việc gì, tránh quá nhiều chữ.
 3) Khuyến mãi có phù hợp với mục tiêu không? Muốn khách thử lần đầu thì khác muốn khách mua nhiều hơn.
@@ -201,11 +201,11 @@ Chuyện của Mentor Cute · EP.26
 
 Mentor Cute mất cả buổi chiều để viết một bài phân tích kỹ, đăng xong thì bài trôi khỏi bảng tin sau vài ngày. Công sức bỏ ra nhiều mà dùng đúng một lần, liệu có phí không?
 
-Trước (Before): mỗi ý tưởng chỉ có một bài, một lần đăng. Đội luôn phải nghĩ chủ đề mới, bài mới, áp lực nội dung cứ đè lên vai.
+Trước: mỗi ý tưởng chỉ có một bài, một lần đăng. Đội luôn phải nghĩ chủ đề mới, bài mới, áp lực nội dung cứ đè lên vai.
 
-Sau (After): một ý tưởng tốt được kể theo nhiều cách, ở nhiều chỗ, cho những nhóm người xem khác nhau. Đội bớt cạn ý tưởng, người xem được gặp cùng một thông điệp theo cách phù hợp với thói quen của họ.
+Sau: một ý tưởng tốt được kể theo nhiều cách, ở nhiều chỗ, cho những nhóm người xem khác nhau. Đội bớt cạn ý tưởng, người xem được gặp cùng một thông điệp theo cách phù hợp với thói quen của họ.
 
-Cầu nối (Bridge): Mentor thường tách một bài gốc thành nhiều định dạng như sau:
+Cầu nối: Mentor thường tách một bài gốc thành nhiều định dạng như sau:
 1) Bài gốc: bài viết dài hoặc buổi chia sẻ, nơi ý tưởng được trình bày đầy đủ.
 2) Bài ngắn: rút ra một ý chính và một ví dụ cho một bài đăng.
 3) Hình hoặc sơ đồ: biến một khung làm việc thành một hình dễ lưu lại.
@@ -240,11 +240,11 @@ Chuyện của Mentor Cute · EP.27
 
 Khách vào fanpage thấy một màu chủ đạo, sang website lại thấy màu khác, đến cửa hàng thì bảng hiệu lại một kiểu nữa. Mentor Cute tự hỏi: khách có nhận ra đây là cùng một thương hiệu không?
 
-Cảm nhận (Feel): nhiều bạn trong đội cảm thấy rất khó giữ hình ảnh đồng bộ. Mỗi người thiết kế một kiểu, mỗi kênh có kích thước riêng, thời gian gấp thì ai cũng làm theo cách nhanh nhất cho mình.
+Cảm nhận: nhiều bạn trong đội cảm thấy rất khó giữ hình ảnh đồng bộ. Mỗi người thiết kế một kiểu, mỗi kênh có kích thước riêng, thời gian gấp thì ai cũng làm theo cách nhanh nhất cho mình.
 
-Từng trải (Felt): Mentor cũng từng như vậy. Có giai đoạn mỗi bài đăng dùng một font, một tông màu, một kiểu logo, nhìn riêng từng bài thì đẹp, nhưng ghép lại thì không nhận ra là cùng một nhà.
+Từng trải: Mentor cũng từng như vậy. Có giai đoạn mỗi bài đăng dùng một font, một tông màu, một kiểu logo, nhìn riêng từng bài thì đẹp, nhưng ghép lại thì không nhận ra là cùng một nhà.
 
-Phát hiện (Found): điều giúp ích là một bộ nguyên tắc nhận diện ngắn gọn mà ai trong đội cũng mở ra là dùng được. Mentor thường gợi ý bộ nguyên tắc có 5 phần:
+Phát hiện: điều giúp ích là một bộ nguyên tắc nhận diện ngắn gọn mà ai trong đội cũng mở ra là dùng được. Mentor thường gợi ý bộ nguyên tắc có 5 phần:
 1) Logo: các phiên bản được dùng, khoảng trống an toàn quanh logo, những cách đặt không được làm.
 2) Màu sắc: một màu chủ đạo, vài màu phụ, kèm mã màu cụ thể.
 3) Chữ: font cho tiêu đề, font cho nội dung, cỡ chữ tham khảo.
@@ -279,13 +279,13 @@ Chuyện của Mentor Cute · EP.28
 
 Marketing gửi xuống điểm bán một thông điệp, đội bán hàng lại giới thiệu một kiểu khác. Khách đứng giữa nghe hai cách nói và chưa biết tin cách nào. Mentor Cute đứng ở điểm bán và nhận ra: vấn đề không nằm ở sản phẩm, mà nằm ở khoảng giữa hai đội.
 
-Bối cảnh (Situation): trade marketing là cầu nối giữa chiến lược của thương hiệu và hoạt động tại điểm bán. Hai đội cùng muốn khách mua, nhưng làm việc với áp lực khác nhau: marketing nghĩ về hình ảnh dài hạn, bán hàng nghĩ về doanh số của tháng.
+Bối cảnh: trade marketing là cầu nối giữa chiến lược của thương hiệu và hoạt động tại điểm bán. Hai đội cùng muốn khách mua, nhưng làm việc với áp lực khác nhau: marketing nghĩ về hình ảnh dài hạn, bán hàng nghĩ về doanh số của tháng.
 
-Phức tạp (Complication): khi mục tiêu, thông điệp và ưu đãi không được thống nhất, nhân viên tại điểm bán tự diễn đạt theo cách mình thấy dễ bán. Khách nhận về những thông điệp thiếu liên kết.
+Phức tạp: khi mục tiêu, thông điệp và ưu đãi không được thống nhất, nhân viên tại điểm bán tự diễn đạt theo cách mình thấy dễ bán. Khách nhận về những thông điệp thiếu liên kết.
 
-Câu hỏi (Question): làm sao để hai đội nói cùng một giọng tại điểm bán?
+Câu hỏi: làm sao để hai đội nói cùng một giọng tại điểm bán?
 
-Trả lời (Answer): Mentor gợi ý bốn việc cụ thể:
+Trả lời: Mentor gợi ý bốn việc cụ thể:
 1) Thống nhất một mục tiêu chung cho giai đoạn: tăng thử lần đầu, tăng mua lại hay tăng giá trị mỗi đơn, để cả hai đội đo bằng cùng một thước.
 2) Chuẩn bị một trang thông điệp bán hàng ngắn: sản phẩm dành cho ai, giúp được gì, ba câu nên nói, một câu nên tránh.
 3) Cho nhân viên bán hàng góp ý trước khi chương trình chạy, vì họ là người nghe khách phản hồi nhiều nhất.
